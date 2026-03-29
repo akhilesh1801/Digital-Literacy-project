@@ -23,7 +23,8 @@ This task combined coding practice on a competitive programming platform with co
 
 # Project Report
 For this task, I used **HackerRank** to practice coding and **Google Workspace** to build a collaborative quiz. HackerRank helped me strengthen my programming fundamentals and gain confidence through problem-solving challenges. Google Forms and Sheets allowed me to design a quiz that promotes digital literacy awareness among batchmates, while also learning how to collect and analyze responses efficiently. Over the next four years, I plan to use coding platforms to continuously improve my technical skills and Google Workspace tools to collaborate on academic projects, share resources, and manage group work effectively.
-Task-2 Portfolio: Academic & Professional Profiles
+
+# Task-2 Portfolio: Academic & Professional Profiles
 
 Overview
 This task involved creating or updating accounts on multiple academic and professional platforms to build a strong digital portfolio. The goal was to establish a consistent online presence that highlights both technical skills and academic progress.
