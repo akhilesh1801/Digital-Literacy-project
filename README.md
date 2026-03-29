@@ -4,14 +4,14 @@
 This task combined coding practice on a competitive programming platform with collaborative work using Google Workspace. The aim was to strengthen technical problem-solving skills while also learning how to design and share digital literacy resources.
 
 
-# Part A – Coding Practice
+## Part A – Coding Practice
 - Platform chosen: **HackerRank**
 - Challenge completed: *Solve Me First* (Beginner-level Python problem)
 - Outcome: Successfully solved the challenge and earned a completion badge.
 - Screenshot Added 
 
 
-# Part B – Google Workspace Collaboration
+## Part B – Google Workspace Collaboration
 - Tool used: **Google Forms & Google Sheets**
 - Created a form titled *Digital Literacy Awareness Quiz* with 5 questions:
   - At least one multiple choice question
@@ -21,15 +21,15 @@ This task combined coding practice on a competitive programming platform with co
 - Form link: [Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdgfKJnAtOy7_YXc7wwUkjkHIVdr_SY9MlzjEFAjz1leEp-5Q/viewform?usp=header)
 
 
-# Project Report
+## Project Report
 For this task, I used **HackerRank** to practice coding and **Google Workspace** to build a collaborative quiz. HackerRank helped me strengthen my programming fundamentals and gain confidence through problem-solving challenges. Google Forms and Sheets allowed me to design a quiz that promotes digital literacy awareness among batchmates, while also learning how to collect and analyze responses efficiently. Over the next four years, I plan to use coding platforms to continuously improve my technical skills and Google Workspace tools to collaborate on academic projects, share resources, and manage group work effectively.
 
 # Task-2 Portfolio: Academic & Professional Profiles
 
-Overview
+## Overview
 This task involved creating or updating accounts on multiple academic and professional platforms to build a strong digital portfolio. The goal was to establish a consistent online presence that highlights both technical skills and academic progress.
 
-Platforms Chosen
+## Platforms Chosen
 I created or updated accounts on the following platforms:
 
 1.GitHub – Used for version control, coding projects, and collaboration.  
@@ -41,16 +41,16 @@ I created or updated accounts on the following platforms:
 3.Kaggle – A platform for data science competitions and datasets.  
    - Set up a profile to participate in challenges and strengthen machine learning skills.  
 
-Project Report
+## Project Report
 
 Over the next four years, I plan to use **GitHub** to document coursework, coding challenges, and collaborative projects. **LinkedIn** will help me connect with peers, professors, and industry professionals, while showcasing achievements and seeking internships. **Kaggle** will be my space to practice data science, explore datasets, and participate in competitions to build a competitive portfolio. Together, these platforms will support my academic growth, professional networking, and technical skill development.
 
 # Task-1 Presentation: Digital Literacy Infographic
 
-Overview
+## Overview
 This project is part of a digital literacy assignment. The goal was to design a single infographic or visual slide that highlights key aspects of digital literacy and professional online behavior. The infographic was created using **Canva**, a free and accessible design tool.
 
-Infographic Content
+## Infographic Content
 The visual covers three main topics:
 1. **Safe Internet Practices** – Emphasizing strong passwords, avoiding suspicious links, and responsible browsing.
 2. **Professional Online Presence** – Maintaining updated profiles on platforms like LinkedIn and GitHub to build credibility.
@@ -58,5 +58,5 @@ The visual covers three main topics:
 
 The design uses icons, concise text, and a clean layout to make the information engaging and easy to understand.
 
-Project Report
+## Project Report
 I chose Canva because of its intuitive interface and wide range of free templates. My infographic focuses on safe internet practices, professional online presence, and email etiquette. One challenge I faced was condensing complex ideas into short, impactful phrases without losing meaning. I found it interesting how design choices—such as color schemes and icon placement—can make educational content more memorable and visually appealing.
