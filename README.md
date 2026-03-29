@@ -1,6 +1,6 @@
 # Task-3 Platforms: Coding Practice & Google Workspace Collaboration
 
-# Overview
+## Overview
 This task combined coding practice on a competitive programming platform with collaborative work using Google Workspace. The aim was to strengthen technical problem-solving skills while also learning how to design and share digital literacy resources.
 
 
