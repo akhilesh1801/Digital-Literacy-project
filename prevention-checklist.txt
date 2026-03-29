@@ -1,0 +1,13 @@
+Prevention Checklist
+
+Stay Safe Online Checklist (for College Students in India)
+
+1.	Verify links before clicking – hover over URLs to check authenticity.
+2.	Never share OTPs or UPI PINs – banks and apps never ask for them.
+3.	Enable two-factor authentication on email, social media, and banking apps.
+4.	Use strong, unique passwords for each account.
+5.	Check sender details – avoid responding to suspicious emails or SMS.
+6.	Update apps and OS regularly to patch security vulnerabilities.
+7.	For UPI safety: Always confirm the recipient’s name before approving payments.
+8.	For UPI safety: Disable auto-approval features; manually authorize every transaction.
+9.	Report incidents immediately via the National Cyber Crime Portal (cybercrime.gov.in) or Helpline 1930
