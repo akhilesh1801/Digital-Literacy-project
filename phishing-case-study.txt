@@ -1,0 +1,17 @@
+Case Study: Phishing Attack on a College Student
+
+Phishing is a cybercrime in which attackers impersonate trusted organizations to trick victims into revealing sensitive information such as login credentials, UPI PINs, or banking details. It relies on social engineering and psychological manipulation rather than technical hacking.
+How it happens (step-by-step):
+
+1.	The attacker crafts a convincing email or SMS, often imitating a bank, payment app, or even a university portal.
+2.	The message uses urgency or fear — for example: “Your UPI account will be suspended unless you verify immediately.”
+3.	A malicious link redirects the victim to a fake website that looks identical to the legitimate one.
+4.	The victim enters their username, password, or UPI PIN, believing they are securing their account.
+5.	The attacker instantly captures these details and uses them to transfer money, access accounts, or steal identity information.
+
+Targeted individuals:
+Students and young professionals are particularly vulnerable. They frequently use online portals and UPI apps, often multitask while studying or working, and may overlook small signs of fraud.
+
+Consequences:
+Victims face direct financial loss, compromised accounts, and emotional stress. In one real incident reported in The Hindu (2023), a Bengaluru student lost ₹45,000 after entering details on a fake UPI page. Beyond monetary damage, phishing can lead to identity theft, misuse of personal data, and long-term reputational harm. For students, this can mean losing trust in digital platforms, difficulty recovering stolen funds, and anxiety about future online transactions.
+Phishing demonstrates how cybercriminals exploit human psychology more than technology, making awareness and vigilance the most effective defence. 
