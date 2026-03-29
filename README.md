@@ -5,10 +5,13 @@ This task involved creating or updating accounts on multiple academic and profes
 
 Platforms Chosen
 I created or updated accounts on the following platforms:
+
 1.GitHub – Used for version control, coding projects, and collaboration.  
-   - Added a profile README with my name, branch, year, and a short learning goal.  
+   - Added a profile README with my name, branch, year, and a short learning goal.
+
 2.LinkedI – A professional networking site.  
    - Updated my Education section with my current degree, institution, and expected graduation year.  
+
 3.Kaggle – A platform for data science competitions and datasets.  
    - Set up a profile to participate in challenges and strengthen machine learning skills.  
 
