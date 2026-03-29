@@ -19,7 +19,8 @@ Project Report
 
 Over the next four years, I plan to use **GitHub** to document coursework, coding challenges, and collaborative projects. **LinkedIn** will help me connect with peers, professors, and industry professionals, while showcasing achievements and seeking internships. **Kaggle** will be my space to practice data science, explore datasets, and participate in competitions to build a competitive portfolio. Together, these platforms will support my academic growth, professional networking, and technical skill development.
 
-================================================================================================================================================================================================================================================================================================
+===================================================================================================================================================================
+
 Task-1 Presentation: Digital Literacy Infographic
 
 Overview
